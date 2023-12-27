@@ -86,7 +86,7 @@ git pull --allow-unrelated-histories
 
 # 遇到的问题
 
-![截屏2023-12-26 13.27.49](/Users/dianhongyang/Desktop/扩展知识/Git usage.assets/截屏2023-12-26 13.27.49-3568479-3568482-3568490.png)
+<img>![截屏2023-12-26 13.27.49](/Users/dianhongyang/Desktop/扩展知识/Git usage.assets/截屏2023-12-26 13.27.49-3568479-3568482-3568490.png)
 
 solve methods
 
