@@ -79,8 +79,7 @@ git branch -d <分支名>
 ```
 git pull --allow-unrelated-histories
 ```
-
-![截屏2023-12-26 15.50.21](/Users/dianhongyang/Desktop/扩展知识/Git usage.assets/截屏2023-12-26 15.50.21.png)
+![Image text](https://github.com/Markydh/Learn_konwledge/blob/main/Git%20usage.assets/截屏2023-12-26%2013.27.49-3568479-3568482-3568490.png)
 
 
 
