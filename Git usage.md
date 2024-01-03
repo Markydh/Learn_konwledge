@@ -32,6 +32,17 @@ ls -la
 rm -rf .git
 ```
 
+# Git 返回指定版本
+
+git 查看历史版本
+
+```
+git log
+```
+
+```
+git reset --hard <指定版本号>
+```
 
 
 
